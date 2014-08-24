@@ -1,0 +1,4 @@
+.vagrant
+.DS_STORE
+etc/unbound/*.pem
+etc/unbound/*.key
